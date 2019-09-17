@@ -1,0 +1,12 @@
+#graphpanel {
+  border: solid black thin;
+}
+
+line {
+  stroke:rgb(0,0,0);
+  stroke-width:1
+}
+
+text {
+  font-size: 12;
+}
